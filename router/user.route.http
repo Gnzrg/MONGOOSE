@@ -1,0 +1,14 @@
+###
+POST http://localhost:8000/user
+Content-Type: application/json
+
+{
+    "lastname" : "Ganzo",
+    "firstname" : "bat",
+    "username" : "GAnzi",
+    "gender" : 1,
+    "email" : "asd",
+    "birthDate" : "2004-07-21",
+    "password" : "123",
+    "favItems" : []
+}
